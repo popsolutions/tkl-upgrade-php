@@ -27,6 +27,7 @@ This script can be used with various TurnKey Linux applications that rely on PHP
 - SugarCRM
 - ProcessWire
 - SuiteCRM
+- NextCloud
 
 ## Usage
 1. Download or copy the script to your TurnKey Linux server.
