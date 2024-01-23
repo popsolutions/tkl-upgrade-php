@@ -33,8 +33,8 @@ This script is compatible with a range of TurnKey Linux applications that use PH
 
 ## Usage
 1. Download or copy the script to your TurnKey Linux server.
-2. Make the script executable: `chmod +x upgrade_php.sh`.
-3. Run the script as root or using `sudo`: `./upgrade_php.sh`.
+2. Make the script executable: `chmod +x tkl-upgrade-php.sh`.
+3. Run the script as root or using `sudo`: `./tkl-upgrade-php.sh`.
 4. Follow the interactive prompts to select the desired PHP version.
 
 **Note:** It's highly recommended to back up your server before running the script.
