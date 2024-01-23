@@ -49,7 +49,7 @@ Contributions to this script are welcomed to enhance its functionality, improve 
 
 ## Authors
 - **Marcos Méndez / PopSolutions** - *Enhancement and Adaptation*
-- **JedMeister** - *Original Concept and Work* - [JedMeister on GitHub](https://github.com/JedMeister)
+- **JedMeister** - *Original Concept and Work*
 
 ## Acknowledgments
 Special thanks to JedMeister for his foundational work, which has been invaluable to the TurnKey Linux community. This script builds upon his original concept to offer broader compatibility and forward-looking features.
